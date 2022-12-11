@@ -1,7 +1,6 @@
 # APIBook
 Dicoding Api Bookshelf Submission Test
 
-Dicoding Submission Api Bookshelf Test my github link 
 
 Info: Cara ngetest  URL method API:
 
@@ -10,6 +9,7 @@ taro url yang sudah dibuat kedalam postman  contoh url : localhost:3000/books
 isi Body Request di dalam Postman sesuai field yang sudah dibuat di dalam API
 
 Terakhir Send/Hit your Request dan muncul data yang kau create di dalam body 
+
 
 Method dalam BookShelfAPI:
 
